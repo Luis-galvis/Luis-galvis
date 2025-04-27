@@ -31,8 +31,9 @@
 ### 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,javascript,html,css,linux,git,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,javascript,html,css,linux,git,github,vscode,python,c,java,laravel,springboot,docker,nodejs,react,typescript" />
 </div>
+
 
 ---
 
