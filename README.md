@@ -6,7 +6,7 @@
   </p>
 
 <div align="center">
-  <img src="https://github.com/Luis-galvis/Luis-galvis/blob/main/assets/IMG_20221209_214229.jpg?raw=true" width="300">
+  <img src="https://github.com/Luis-galvis/Luis-galvis/blob/main/assets/actu2.jpg?raw=true" width="300">
 </div>
 </div>
 
